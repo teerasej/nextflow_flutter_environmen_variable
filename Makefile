@@ -1,2 +1,2 @@
 format:
-	dart format ./lib
+	@dart format ./lib
