@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nextflow_flutter_environmen_variable/providers/environment_provider.dart';
-import 'package:provider/provider.dart';
+import 'package:nextflow_flutter_environmen_variable/providers/environment_util.dart';
 
 void main() {
   runApp(const MyApp());
